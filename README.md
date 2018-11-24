@@ -2,7 +2,7 @@
 A smart character sheet app for Edge of the Empire campaigns
 
 Phase One:
-  Read a character sheet
+  Read a character sheet (It's a JSON! Whoop)
   Populate the in-app character object with the relevant stats
   Display the character information
   
@@ -33,4 +33,5 @@ Phase Five:
       - Each log contains:
         - The change to XP (amount and +/-)
         - A small message describing the source of the change
+    Logger can also be viewed with filters so sources of loss/gain can be isolated for better UX
 
